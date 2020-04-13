@@ -1,0 +1,2 @@
+#Enable auto run of closest match when you make a typo in git
+git config --global help.autocorrect 20
